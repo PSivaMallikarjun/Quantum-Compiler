@@ -1,4 +1,5 @@
-# Binary-to-Qubit Compiler AI Agent
+# Quantum-Compiler
+(Binary-to-Qubit Compiler AI Agent)
 
 ## Overview
 This project is an AI-driven quantum compiler that converts binary code into qubit representations using a mathematical approach. It features a **Gradio UI** for user interaction, allowing binary inputs to be transformed into quantum-inspired qubit states. This approach bypasses the need for Qiskit's Aer simulator by implementing raw matrix operations with NumPy.
